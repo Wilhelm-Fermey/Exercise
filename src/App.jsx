@@ -1,3 +1,4 @@
+
 function  Header(){
   return (
     <div>
@@ -42,7 +43,7 @@ function  Footer(){
 function  Exercice (){
   return (
     <div>
-        <Header />
+        <Header/>
         <Content />
         <Footer />      
     </div>
